@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "jest"
-  },
+"scripts": {
+  "test": "node ./node_modules/jest/bin/jest.js"
+},
   "keywords": [],
   "author": "",
   "license": "ISC",
