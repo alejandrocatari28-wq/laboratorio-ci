@@ -23,7 +23,7 @@ console.log(cuentas.consultarSaldo(500));
 console.log(transacciones.depositar(200));
 console.log(transacciones.retirar(100));
 
-
+console.log("Módulos integrados correctamente");
 module.exports = {
     sumar,
     restar
